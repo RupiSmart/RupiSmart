@@ -105,12 +105,12 @@ RupiSmart is an integrated project that leverages Machine Learning, Mobile Devel
    npm install
    ```
 3. Start the API server.
-4. This Branch model-backend. Installation :
+4. This how to install Branch model-backend. Installation :
    
 ```
 git clone https://github.com/RupiSmart/Cloud-Computing.git -b model-backend
 ```
-5. Install requirements
+5. Install requirements for server flask
 ```
 pip install -r requirements.txt
 ```
